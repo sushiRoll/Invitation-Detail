@@ -1,10 +1,9 @@
-# Invitation Detail
 
-This site serves as a detailed agenda for Carson and Ame's wedding, including the detailed timeline for the day, parking details, as well as your RSVP form. 
+This site serves as a detailed agenda for Carson and Ame's wedding, including the RSVP form, date and location, detailed agenda, and parking direction. 
 
 ## RSVP
 
-Please help us determine how many seats we will need at the venue by filling out this <a href="https://forms.gle/THmgmyDcw5MpqysX7">RSVP form</a>. It is quick and simple so don't save this for later!
+Please help us determine how many seats and tickets we will need for the venue by filling out this <a href="https://forms.gle/THmgmyDcw5MpqysX7">RSVP form</a>. It is quick and simple so don't save this for later!
 
 ## Date and Location
 
@@ -32,3 +31,10 @@ Noon - Venue Open<br>
 ## Parking Details
 
 Parking details are coming soon. 
+
+## Venue Direction
+
+An <a href="https://www.dallasarboretum.org/visitor-information/gardens-and-pavilions/garden-map/">interactive map</a> is available for the Dallas Arboretum. Karen's Gazebo is labeled as 14 on this map. 
+You can also save the following image and follow the red dotted line from the entrance to the Karen's Gazebo. 
+<img src="/image/venue-direction.png" alt="Venue Direction" width="500"/>
+
