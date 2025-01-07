@@ -36,5 +36,4 @@ Parking details are coming soon.
 
 An <a href="https://www.dallasarboretum.org/visitor-information/gardens-and-pavilions/garden-map/">interactive map</a> is available for the Dallas Arboretum. Karen's Gazebo is labeled as 14 on this map. 
 You can also save the following image and follow the red dotted line from the entrance to the Karen's Gazebo. 
-<img src="/image/venue-direction.png" alt="Venue Direction" width="500"/>
-
+![Venue Direction](/docs/assets/venue-direction.png)
