@@ -39,8 +39,8 @@ Parking will be at Gate 2, at the corner of Lakeland Dr and Garland Ave. Gate 2 
 
 ## Venue Direction
 
-An <a href="https://www.dallasarboretum.org/visitor-information/gardens-and-pavilions/garden-map/">interactive map</a> is available for the Dallas Arboretum. Karen's Gazebo is labeled as 14 on this map. <br>
-Walking Direction to Karen's Gazebo from Gate 2: <br>After entering Gate 2 and parking in the Gate 2 parking lot, enter the garden through the crosswalk that is located in front of the fountain. You then will walk down the paseo that is to the left of the fountain. You will continue straight on the paseo until you reach the Red Maple Rill on the right hand side. Make a right and head down the path until you see a fountain on the left. Head towards the fountain. You then will see Karen’s Gazebo down the hill on the right hand side. Take the winding path that will lead you down to the Gazebo. <br>
+An <a href="https://www.dallasarboretum.org/visitor-information/gardens-and-pavilions/garden-map/">interactive map</a> is available for the Dallas Arboretum. Karen's Gazebo is labeled as 14 on this map. <br><br>
+Walking Direction to Karen's Gazebo from Gate 2: <br><br>After entering Gate 2 and parking in the Gate 2 parking lot, enter the garden through the crosswalk that is located in front of the fountain. You then will walk down the paseo that is to the left of the fountain. You will continue straight on the paseo until you reach the Red Maple Rill on the right hand side. Make a right and head down the path until you see a fountain on the left. Head towards the fountain. You then will see Karen’s Gazebo down the hill on the right hand side. Take the winding path that will lead you down to the Gazebo. <br>
 
 You can also save the following image and follow the red dotted line from the entrance to the Karen's Gazebo. 
 ![Venue Direction](/docs/assets/venue-direction.png)
